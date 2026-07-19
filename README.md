@@ -1,3 +1,4 @@
+<img width="787" height="468" alt="pret2" src="https://github.com/user-attachments/assets/c48b5ad0-79a1-4f8d-930f-f4106b070648" />
 # Student-Course-management-using-SQL
 
 Hospital Admissions Analysis
